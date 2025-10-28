@@ -18,3 +18,5 @@ The goal is to understand how commits, branches, merges, and collaboration work.
 1. Clone this repository:
    ```bash
    git clone https://github.com/Prit2019/git-notes-project.git
+
+## demo
